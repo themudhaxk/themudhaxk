@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-My name is Ade, and I'm a passionate Full Stack Developer with 2 years of experience specializing in the MERN stack. I take pride in my work and value prompt, professional communication. I'm eager to learn more about your project and contribute to its success.
+My name is Ade, and I'm a passionate Full Stack Developer with 2 years of experience specializing in the MERN stack. I take pride in my work and value prompt, professional communication.
 
 ## About Me
 - 👀 I’m interested in web development, cybersecurity, and creating efficient, user-friendly applications.
