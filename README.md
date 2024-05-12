@@ -11,7 +11,7 @@ My name is Ade, and I'm a passionate Full Stack Developer with 2 years of experi
 - ⚡ Fun fact: When I'm not coding, I enjoy playing mobile games.
 
 ## Professional Background
-I have a strong foundation in **HTML**, **CSS**, **JavaScript**, and I'm proficient in **NodeJS**, **ExpressJS**, **ReactJS**, and **MongoDB**. My expertise lies in developing both Single Page Applications (SPA) and Multi Page Applications (MPA). I'm also well-versed in CMS platforms like Drupal and WordPress.
+I have a strong foundation in **HTML**, **CSS**, **JavaScript**, and I'm proficient in **NodeJS**, **ExpressJS**, **ReactJS**, and **MongoDB**. My expertise lies in developing both Single Page Applications (SPA). 
 
 Security is paramount in my development process, and I apply best practices in cybersecurity and penetration testing to ensure robust and secure applications.
 
